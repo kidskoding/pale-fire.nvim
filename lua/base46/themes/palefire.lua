@@ -38,6 +38,13 @@ M.base_16 = {
   base0C = "#8CCBCE", base0D = "#9CDBDE", base0E = "#C4B5E2", base0F = "#DFB497",
 }
 
+M.polish_hl = {
+  St_InsertMode = { bg = "#EADFAF", fg = "#404040", bold = true },
+  
+  St_InsertText = { fg = "#EADFAF", bg = "#2E2E2E" },
+  St_InsertSep  = { fg = "#EADFAF", bg = "#2E2E2E" },
+}
+
 M.type = "dark"
 
 return M
