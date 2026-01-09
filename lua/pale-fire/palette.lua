@@ -24,9 +24,9 @@ M.colors = {
 }
 
 M.ui = {
-  selection = "#9AC3E433",
-  diff_add = "#95B99533",
-  diff_remove = "#B3808033",
+  selection = "#9AC3E4",
+  diff_add = "#95B995",
+  diff_remove = "#B38080",
   diff_change = "#DFB497",
   cursor = "#FEFEE7",
   statusBar = "#2E2E2E",
