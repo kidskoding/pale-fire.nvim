@@ -1,5 +1,6 @@
-local colors = require("pale-fire.palette").colors
-local ui = require("pale-fire.palette").ui
+local palette = require("pale-fire.palette")
+local colors = palette.colors
+local ui = palette.ui
 
 local M = {}
 
